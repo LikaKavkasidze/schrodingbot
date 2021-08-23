@@ -1,0 +1,28 @@
+{
+  "name": "schrodingbot",
+  "version": "1.0.0",
+  "description": "Discord bot that is unlikely to make you smart",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StaloneLab/schrodingbot.git"
+  },
+  "keywords": [
+    "Schrödinger",
+    "discord",
+    "bot"
+  ],
+  "author": "Stalone <talone@boxph.one>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/StaloneLab/schrodingbot/issues"
+  },
+  "homepage": "https://github.com/StaloneLab/schrodingbot#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
