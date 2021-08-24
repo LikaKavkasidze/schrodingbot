@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import process from 'process';
 import { Client, Intents } from 'discord.js';
 import { Dictionnary } from './dictionnary.js';
